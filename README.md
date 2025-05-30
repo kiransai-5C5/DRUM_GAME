@@ -35,5 +35,5 @@ This is a simple and interactive **Drum Kit Web App** built using **HTML, CSS, a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/DRUM_GAME.git
+ https://kiransai-5c5.github.io/DRUM_GAME/
 
